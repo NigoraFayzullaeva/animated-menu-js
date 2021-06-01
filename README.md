@@ -1,3 +1,4 @@
+⚠️ Feel free to download source code and change it by your own.
 # animated-menu-js
  template animated menu with js
 <br>
